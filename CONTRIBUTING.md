@@ -1,5 +1,11 @@
 # Contributing
 
+### v.0.0.0
+- Compute preliminar analysis to reconciled and classify german institutions according to the funding schema
+
+
+### Unrealesed
+
 Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.
 
 You can contribute in many ways:
